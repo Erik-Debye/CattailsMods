@@ -4,7 +4,7 @@ A colection of self-made mods for Cattails the game. Each mod includes an instal
 INSTALLATION 
 
 Materials/Software required: 
-1. Undertales Mod Tool found here: https://github.com/krzys-h/UndertaleModTool/releases/tag/0.4.0.1 Please use the latest release and the 'net bundled' version. This version will install all needed dependencies to decompile and recompile the code. 
+1. Undertales Mod Tool found here: https://github.com/krzys-h/UndertaleModTool/releases Please use the latest release and the 'net bundled' version. This version will install all needed dependencies to decompile and recompile the code. 
 2. Hg Patcher found here: https://github.com/SolventMercury/HgPatcher/releases Please download the file 'HGPatcher.csx'
 3. A mod from here
 
