@@ -6,18 +6,18 @@ INSTALLATION
 Materials/Software required: 
 1. Undertales Mod Tool found here: https://github.com/krzys-h/UndertaleModTool/releases Please use the latest release and the 'net bundled' version. This version will install all needed dependencies to decompile and recompile the code. 
 2. Hg Patcher found here: https://github.com/SolventMercury/HgPatcher/releases Please download the file 'HGPatcher.csx'
-3. A mod from here
+3. A mod from here. Download a zip of this directory, extract its contents. Each mod has two folders, an install folder and an uninstall folder. 
 
 
-Step 1: Go to your data.win file for your game. Make a backup of this file. REPEAT: Make a backup. 
+Step 1: Go to your data.win file for your game. You can find this file along this path "[...]:\SteamLibrary\steamapps\common\[_GAME_]\data.win". Make a backup of this file. REPEAT: Make a backup. Save your backup outside this path (such as to your desktop). This is your insurance in case something breaks.
 
-Step 2: Open the (non-backup) data.win file of the Game Maker game of your choice
+Step 2: Open the (non-backup) data.win file of your game in Undertales Mod Tool.
 
 Step 3: Select 'Scripts' and then select 'Run other scripts'
 
 Step 4: Select 'HGPatcher.csx'
 
-Step 5: When prompted, Select and open the mod directory you wish to install (Do not enter any folders in the Patch). The file name should say 'Patch Directory." and you should see each folder/file in the file explorer. Hit 'Open'. 
+Step 5: When prompted, Select and open the mod directory you wish to install (don't open any of the folders inside the install mod folder). The file name box should say 'Patch Directory." and you should see each multiple folders in the file explorer window. Hit 'Open'. 
 
 Step 6: Wait. It might take a while. A prompt may appear asking if you wish to resize sprites. For non-cosmetic mods, hit no. 
 
