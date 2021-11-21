@@ -19,7 +19,7 @@ Step 4: Select 'HGPatcher.csx'
 
 Step 5: When prompted, Select and open the mod directory you wish to install (don't open any of the folders inside the install mod folder). The file name box should say 'Patch Directory." and you should see each multiple folders in the file explorer window. Hit 'Open'. 
 
-Step 6: Wait. It might take a while. A prompt may appear asking if you wish to resize sprites. For non-cosmetic mods, hit no. 
+Step 6: Wait. It should patch extremely quickly.
 
 Step 7: When complete, click 'File' in the Undertales Mod Tool, and hit 'Save'. Quit the Undertales Mod Tool, and try the game out
 
