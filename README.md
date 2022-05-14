@@ -3,12 +3,18 @@ A colection of self-made mods for Cattails the game. Each mod includes an instal
 
 INSTALLATION 
 
-Materials/Software required: 
+**Materials/Software required:**
+
 1. Undertales Mod Tool found here: https://github.com/krzys-h/UndertaleModTool/releases Please use the latest release and the 'net bundled' version. This version will install all needed dependencies to decompile and recompile the code. Make sure to extract its contents. 
 2. Hg Patcher found here:~~https://github.com/SolventMercury/HgPatcher/releases~~ Please download the file 'HGPatcher.csx'
-   **EDIT 5/13/22**: Please use the script found here in my work for the time being [See Issue #1 for Details]: https://github.com/Erik-Debye/HgPatcher/tree/main/Scripts 
+
+**EDIT 5/13/22**: Please use the script found here in my repository for now. It includes some edits to allow me to share mods on Github.
+[See Issue #1 for Details]: https://github.com/Erik-Debye/HgPatcher/tree/main/Scripts 
+
 3. A mod from here. Download a zip of this directory, extract its contents. Each mod has two folders, an install folder and an uninstall folder. 
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**With all the required tools acquired:**
 
 Step 1: Go to your data.win file for your game. You can find this file along this path "[...]:\SteamLibrary\steamapps\common\[_GAME_]\data.win". Make a backup of this file. REPEAT: Make a backup. Save your backup outside this path (such as to your desktop). This is your insurance in case something breaks.
 
